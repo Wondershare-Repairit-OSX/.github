@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <img src="https://static.macupdate.com/screenshots/336900/m/wondershare-repairit-screenshot.png?v=1653464179" alt="Wondershare Repairit screenshot"/>
+  <img src="https://images.wondershare.com/repairit/repairit/video-repair/add-corrupted-video-mac.png" alt="Wondershare Repairit screenshot"/>
 </p>
 
 ---
@@ -37,12 +37,6 @@ The software supports various formats handling diverse file types through compre
 - <a href="#">Data</a> recovery salvaging corrupted files restoration accessible
 - Corruption <a href="#">fixing</a> repairing file damage recovery algorithms
 - <a href="#">File</a> restoration recovering inaccessible media documents comprehensively
-
----
-
-<p align="center">
-  <img src="https://images.wondershare.com/repairit/repairit/video-repair/add-corrupted-video-mac.png" alt="Wondershare Repairit screenshot"/>
-</p>
 
 ---
 
